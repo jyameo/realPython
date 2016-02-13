@@ -86,34 +86,16 @@ padding: 3px 10px;
   font-weight: normal;
 }
 .datagrid table tbody .alt td {
-background: #E1EEF4;
-color: #000000;
+  background: #E1EEF4;
+  color: #000000;
 }
-109
-110
-111
-112
+
 .datagrid table tbody td:first-child {
-border-left: none;
+  border-left: none;
 }
-113
-114
-115
-116
 .datagrid table tbody tr:last-child td {
-border-bottom: none;
+  border-bottom: none;
 }
-117
-118
-119
-120
-121
-122
-123
-124
-125
-126
-127
 .button {
   background-color:#000;
   display:inline-block;
